@@ -12,6 +12,6 @@ def sum_of_target(nums,target):
         seen[num] = i 
 
 li = [1,2,4,5]
-target = 5
+target = 13
 
 print(sum_of_target(li,target))
